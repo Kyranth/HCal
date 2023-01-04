@@ -1,3 +1,6 @@
+# This program calculates hours for a week
+# from a file as input using the datetime library
+
 from datetime import datetime
 
 class Worktime:
